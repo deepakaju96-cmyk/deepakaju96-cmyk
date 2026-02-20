@@ -56,10 +56,10 @@ mindmap
       Team AI literacy
       Best practices playbooks
       Tool adoption strategies
-    🏗️ CRM & Business Systems
+    🏗️ Business Systems
       Salesforce + AI integration
-      Custom GTM platforms
-      Lead enrichment & automation
+      CRM automation
+      Enterprise workflows
 ```
 
 ---
@@ -75,7 +75,6 @@ Led the company-wide AI adoption initiative, delivering measurable impact:
 | **Agentic Automations** | Built self-healing n8n workflows with AI decision-making and error recovery | Reduced manual intervention |
 | **Rapid Prototyping** | Introduced AI-assisted development — going from idea to working prototype in hours | 10x faster innovation cycles |
 | **Team Training** | Ran workshops on prompt engineering, AI tools, and best practices | Upskilled entire team on AI |
-| **Custom GTM CRM** | Built AI-powered lead enrichment, dedup, and contract automation pipeline | Full go-to-market automation |
 
 ---
 
@@ -119,8 +118,8 @@ Led the company-wide AI adoption initiative, delivering measurable impact:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/deepakaju96-cmyk/n8n-ai-lead-automation">AI Lead Automation Pipeline</a></h3>
-      <p>End-to-end AI-powered lead capture, enrichment & contract pipeline. Uses Gemini AI for real-time company research with web search, custom deduplication engine, and multi-channel notifications.</p>
+      <h3>🏗️ <a href="https://github.com/deepakaju96-cmyk/n8n-ai-lead-automation">Custom GTM CRM</a> <sup>Personal Project</sup></h3>
+      <p>Building my own AI-powered Go-To-Market CRM from scratch — lead capture, Gemini AI enrichment, deduplication engine, automated contracts, and multi-channel notifications via Slack & Gmail.</p>
       <p>
         <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -152,7 +151,7 @@ Led the company-wide AI adoption initiative, delivering measurable impact:
 
 ## 🎯 Currently
 
-- 🏗️ Building a **custom GTM CRM** with AI-powered lead enrichment and automated contract workflows
+- 🏗️ Building my own **custom GTM CRM** — a personal project applying everything I know about AI to go-to-market automation
 - 🤖 Exploring **self-healing agentic AI** patterns and multi-model orchestration
 - 📚 Developing **AI best practices playbooks** for enterprise adoption
 - 🔭 Looking for **remote AI transformation & automation opportunities** in Canada
